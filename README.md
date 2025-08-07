@@ -8,7 +8,6 @@
 ## 🌐 **Front-end**
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, EJS  
-**Library Used:** React.js
 
 **Key Features:**
 - 📱 **Responsive Design**: Optimized for all screen sizes
@@ -61,15 +60,15 @@ All property images are securely uploaded and hosted on **Cloudinary**, ensuring
 
 ## 🚀 **Deployment**
 
-The application is deployed on **Render**, and is connected to **MongoDB Atlas** for robust cloud-based database management.
+Deployment is temporarily paused for updates and improvements; a live demo will be available soon.
 
 ---
 
 ## ✍️ **Author**
 
-**@resmit-dholariya**
+**@aishani-goyal**
 
-This project reflects a strong grasp of full-stack development, including front-end UI design, back-end API creation, authentication systems, cloud services integration, and database management. WanderLust mimics the core functionalities of a modern vacation rental platform in a clean, responsive, and secure manner.
+This project highlights practical experience in full-stack development, including front-end UI design, back-end API creation, authentication systems, cloud services integration, and database management. WanderLust mimics the core functionalities of a modern vacation rental platform in a clean, responsive, and secure manner.
 
 ---
 
